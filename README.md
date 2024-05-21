@@ -1,5 +1,5 @@
 # Linktree
-![Project image](https://github.com/Jomonhh/Linktree-Clone/blob/main/Todo.png)
+![Project image](https://github.com/Jomonhh/to-do-list/blob/main/Todo.png)
 
 Live <a href="https://jomonhh.github.io/to-do-list/">here</a>
 ## Getting started
